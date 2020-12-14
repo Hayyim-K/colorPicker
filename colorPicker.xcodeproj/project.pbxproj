@@ -11,6 +11,7 @@
 		6F8E92382587688800F03C61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8E92372587688800F03C61 /* ContentView.swift */; };
 		6F8E923A2587688B00F03C61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F8E92392587688B00F03C61 /* Assets.xcassets */; };
 		6F8E923D2587688B00F03C61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F8E923C2587688B00F03C61 /* Preview Assets.xcassets */; };
+		6F8E924B25880F3200F03C61 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8E924A25880F3200F03C61 /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6F8E92392587688B00F03C61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F8E923C2587688B00F03C61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F8E923E2587688B00F03C61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F8E924A25880F3200F03C61 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				6F8E92352587688800F03C61 /* colorPickerApp.swift */,
+				6F8E924A25880F3200F03C61 /* ColorView.swift */,
 				6F8E92372587688800F03C61 /* ContentView.swift */,
 				6F8E92392587688B00F03C61 /* Assets.xcassets */,
 				6F8E923E2587688B00F03C61 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F8E924B25880F3200F03C61 /* ColorView.swift in Sources */,
 				6F8E92382587688800F03C61 /* ContentView.swift in Sources */,
 				6F8E92362587688800F03C61 /* colorPickerApp.swift in Sources */,
 			);
